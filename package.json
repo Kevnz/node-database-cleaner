@@ -9,7 +9,7 @@
     "url" : "git://github.com/emerleite/node-database-cleaner.git" 
   },
   "dependencies" : {
-    "mongodb" : "0.9.8-7"
+    "mongodb" : "*"
   },
   "devDependencies" : {
     "mocha" : "0.7.0",
